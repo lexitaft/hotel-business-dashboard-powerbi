@@ -39,7 +39,7 @@ This project uses Power BI, DAX, and Power Query to analyze hotel performance ac
 
 - **Data Visualization** – Designed intuitive visualizations, including cards, line charts, donut charts, and bar charts, to effectively communicate revenue trends, booking performance, and operational insights.
 
-- **Business Intelligence Analytics** – Applied analytical techniques to identify business trends, evaluate hotel performance, and transform operational data into actionable insights for data-driven decision-making.
+- **Business Intelligence Analytics** – Analyzed hotel reservation data to evaluate financial performance, identify revenue and booking trends, monitor key performance indicators (KPIs), and deliver actionable insights through an interactive dashboard
 
  ## Files
  - 'HotelAnalysis.pbix' - Interactive Power BI report

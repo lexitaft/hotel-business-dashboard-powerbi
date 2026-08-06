@@ -5,11 +5,9 @@ Interactive Power BI dashboard analyzing hotel revenue, reservations, booking ch
 This project uses Power BI, DAX, and Power Query to analyze hotel performance across 2024 and 2025. The dashboard explores revenue, completed reservations, booking channels, seasonal trends, average daily rate, cancellations, and guest review scores through interactive visualizations.
 
 ## Dashboard Preview
-
 ![Hotel Overview Dashbboard](images/hotel_overview.png)
 
 ## Business Questions
-
 - How is the hotel performing overall?
 - How does revenue vary throughout the year?
 - Which revenue sources contribute the most?
@@ -25,8 +23,7 @@ This project uses Power BI, DAX, and Power Query to analyze hotel performance ac
 - Cancellation Rate
 - Average Review Score
 
-  ## Key Findings
-
+## Key Findings
   - Total revenue reached $5.36 million across 2024 and 2025, with approximately 5,348 completed reservations, demonstrating strong overall business performance.
   - Room revenue was the hotel's largest revenue source, contributing approximately 55% of total revenue.
   - Revenue remained relatively consistent throughout both years, with seasonal peaks during the summer months, indicating increased demand during peak travel season.
@@ -34,7 +31,6 @@ This project uses Power BI, DAX, and Power Query to analyze hotel performance ac
   - The hotel maintained a 9.4% cancellation rate, indicating that the majority of reservations resulted in completed stays.
  
 ## Tools Used
-
 - **Power BI** – Built an interactive dashboard featuring cards, charts, slicers, and report pages to analyze hotel performance and support interactive data exploration.
 
 - **DAX** – Created measures to calculate key performance metrics, including total revenue, completed reservations, average daily rate, average length of stay, cancellation rate, revenue distribution, and review scores.
